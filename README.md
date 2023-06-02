@@ -1,3 +1,3 @@
 My first readme
-README update from github.com git
+this is our update to readme
 
